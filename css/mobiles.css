@@ -1,0 +1,15 @@
+@media (max-width: 480px) {
+     header {
+        width: 480px;
+     }
+
+  h2 {
+    padding-left: 8px;
+  }
+  .header_div {
+    display: none;
+  }
+  .bars_div {
+    padding-right: 8px;
+  }
+}

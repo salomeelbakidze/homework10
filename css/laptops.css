@@ -1,0 +1,28 @@
+@media (max-width: 1024px) {
+    /* header */
+    header {
+        width: 1024px;
+    }
+  h2 {
+    padding-left: 32px;
+  }
+  .header_div {
+    padding-right: 32px;
+  }
+  /* section1 */
+  .sec1 {
+    width: 1024px;
+    height: 704px;
+  }
+  .sec1_img {
+    height: 480px;
+    width: 960px;
+    margin: 32px 32px 192px 32px;
+    
+
+  }
+  .sec1_article {
+    display: flex;
+   
+  }
+}
